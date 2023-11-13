@@ -9,9 +9,7 @@ GXNU高级语言程序设计作业
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  vs-hu的vscode安装包
 
 #### 使用说明
 
