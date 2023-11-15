@@ -13,8 +13,8 @@ GXNU高级语言程序设计作业
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
+1.  由于gitee访问方便，此仓库在gitee更新更多！
+2.  gitee [!](https://gitee.com/HG-dev17/GXNU-C-works)
 3.  xxxx
 
 #### 参与贡献
