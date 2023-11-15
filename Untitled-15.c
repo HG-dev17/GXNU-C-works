@@ -10,13 +10,13 @@
 int main() {
     int num1, num2;
     scanf("%d %d", &num1, &num2);
-    int i, gys = 1;//公约数
+    int i, gys = 1;
     for (i = 1; i <= num1 && i <= num2; i++) {
         if (num1 % i == 0 && num2 % i == 0) {
             gys = i;
         }
     }
-    int gbs = (num1 * num2) / gys;//公倍数
+    int gbs = (num1 * num2) / gys;
     printf("%d %d", gys,gbs);
     return 0;
 }

@@ -6,7 +6,6 @@
 输出示例：
 2 3 5 7 11 13 17 19 23 ......
 */
-
 bool isPrime(int n) {
     if (n <= 1) {
         return false;

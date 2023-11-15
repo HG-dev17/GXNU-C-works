@@ -5,15 +5,16 @@
 输出示例：
 1 2 3 4 5 6 apple 8 9 10 11 12 13 apple 15 16 apple 18 19 20 ......
 */
-int main() {
-    for (int i = 1; i <= 200; i++) {
-        if (i % 7 == 0 || i % 10 == 7 || i / 10 == 7) {
-            printf("apple ");
-        } else {
-            printf("%d ", i);
+int main(){
+    int i,n;
+    for(i=1;i<=200;i++){
+        if(i%7==0||i%10==7||i/10%10==7){
+            printf("apple");
         }
-
+        else{
+            printf("%d",i);
+        }
+            printf(" ");
     }
-
     return 0;
 }
